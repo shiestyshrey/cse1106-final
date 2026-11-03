@@ -1,0 +1,23 @@
+PsuedoCode for Final
+
+MAX_OCC = 5
+LOWEST_OCC = 0
+CurrentOcc = 0
+
+
+if currentOcc = MAX 
+	led ON
+
+int changeOCC(char value, int persons){
+	if (currentOcc == LOWEST_OCC && value == -)
+		return null
+	else if (currentOcc == MAX_OCC && value == +)
+		return null
+	else if (char == -)
+		currentOcc - persons
+	if (char == +)
+		return Occ + persons
+
+	
+		
+		
