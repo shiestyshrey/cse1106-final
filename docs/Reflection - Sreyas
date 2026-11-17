@@ -1,0 +1,5 @@
+1. Code + Wiring + Debugging
+2. Debugging and Input Capture
+3. One of the main errors we kept running into was the inability to change the maximum occupancy. Through testing and debugging, we learned that we needed to add a '&' sign to indicate that the input be stored to a variable address.
+4. Learning to program through the terminal.
+5. Using linux and programming in C. 
