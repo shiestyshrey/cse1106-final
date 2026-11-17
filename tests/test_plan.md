@@ -1,5 +1,3 @@
-Current Occupancy System Status
-
 | Current Occupancy | System Status | Full Indicator LED |
 |:-----------|:---:|------------:|
 | 1/5      | Space Available | OFF |
